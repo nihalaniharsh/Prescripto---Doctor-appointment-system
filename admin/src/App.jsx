@@ -14,7 +14,7 @@ import DoctorsList from './pages/admin/DoctorsList';
 import { DoctorContext } from './context/DoctorContext';
 import DoctorDashboard from './pages/Doctor/DoctorDashboard';
 
-import DoctorProfile from './pages/doctor/DoctorProfile';
+import DoctorProfile from './pages/Doctor/DoctorProfile';
 import DoctorAppointments from './pages/Doctor/DoctorAppointments';
 
 const App = () => {
