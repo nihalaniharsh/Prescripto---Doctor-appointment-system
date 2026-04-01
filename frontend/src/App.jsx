@@ -5,7 +5,7 @@ import Doctor from './pages/Doctor'
 import Login from "./pages/Login"
 import About from "./pages/About"
 import Contact from "./pages/Contact"
-import Myprofile from './pages/Myprofile'
+import Myprofile from './pages/MyProfile'
 import MyAppointments from "./pages/MyAppointments"
 import Appointment from './pages/Appointment'
 import Navbar from './components/Navbar'
